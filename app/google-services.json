@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "757343382553",
+    "firebase_url": "https://qrscanner-25e91-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "qrscanner-25e91",
+    "storage_bucket": "qrscanner-25e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757343382553:android:2f5b8a691d3fc594968e88",
+        "android_client_info": {
+          "package_name": "com.example.qrcodescanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVW8FTt8R7eTKcjiFN7-cml_Ie-vf1Zxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
